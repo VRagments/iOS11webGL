@@ -24,7 +24,7 @@ Start a webserver inside the root folder.
 
 `python -m SimpleHTTPServer`
 
-Navigation to this address and test video playback.
+Navigate to this address and test video playback.
 
 The video will be played properly on:
 
