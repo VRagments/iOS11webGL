@@ -18,3 +18,22 @@ The video is played as the audio of the video can be heard.
 But the texture is no longer drawn.
 If we remove the `video-shader` component the whole texture area will be black instead of white with the other symptoms being the same.
 
+
+# Run example
+
+Start a webserver inside the root folder.
+
+`python -m SimpleHTTPServer`
+
+Navigation to this address and test video playback.
+
+It works on
+
+* MacOS Safari
+* Android Chrome
+
+It should also be working on:
+
+* iOS Safari
+* iOS Chrome
+* iOS Firefox
